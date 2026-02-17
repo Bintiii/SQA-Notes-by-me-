@@ -1,0 +1,95 @@
+Trello ar Jira duita-i project manage korar tool.
+But ora alada purpose e beshi use hoy.
+
+🟢 Trello ki?
+
+-Onek simple.
+
+-Board er moddhe card thake (To Do – Doing – Done type).
+
+-Drag & drop kore kaj move kora jay.
+
+-Shikhte easy.
+
+👉 Student, small team, normal task manage korar jonno best.
+
+Example:
+Assignment list, event planning, content planning, daily task.
+
+🔵 Jira ki?
+
+-Eita mainly software company te use hoy.
+
+-Bug track kora, sprint planning, backlog manage kora.
+
+-Agile / Scrum follow korar jonno banano.
+
+-Ektu complex.
+
+👉 Developer & SQA team er jonno best.
+
+Example:
+Bug report, sprint task, release planning.
+
+🎯 Simple Difference:
+
+***Trello = Simple & easy
+
+***Jira = Professional & technical
+
+
+
+🔵 Agile mane ki?
+
+Agile hocche ekta project bananor style / method —
+jekhane kaj chhoto chhoto part e kora hoy, fast feedback neya hoy, and change easily accept kora hoy.
+
+📌 Easy Example:
+
+Dhoro ekta app banaccho।
+
+❌ Old style (Waterfall):
+Age pura app design → tarpor coding → tarpor testing → seshe release.
+Problem hoile shob abar change korte hobe.
+
+✅ Agile:
+App ta chhoto chhoto part e banano hoy (2–3 week er sprint e).
+Prothome login feature banano → test → client feedback → improve.
+Tarpor next feature.
+
+🧠 Agile er main idea:
+
+-Small steps e kaj
+
+-Team collaboration
+
+-Regular feedback
+
+-Change accept kora
+
+-Fast delivery
+
+🔄 Agile e normally use hoy:
+
+-Sprint
+
+-Scrum
+
+-Stand-up meeting
+
+-Backlog
+
+🎯 Ek line e:
+
+Agile mane flexible way te, chhoto chhoto step e project develop kora.
+
+
+project->epic->user story->backlog
+
+
+board
+cardlist/colum
+card
+home->templete->scrum
+
+****task manei backlog****
